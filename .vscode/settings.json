@@ -1,0 +1,6 @@
+{
+    "liveServer.settings.host": "127.0.0.2",
+    "liveServer.settings.proxy": {
+        "proxyUri": "http://127.0.0.1:83"
+    }
+}
